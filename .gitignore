@@ -1,10 +1,14 @@
 # Byte-compiled / optimized / DLL files
+.DS_Store
+*.csv
+
 __pycache__/
 *.py[cod]
 *$py.class
 
 # C extensions
 *.so
+*.ipynb_checkpoints/
 
 # Distribution / packaging
 .Python
@@ -75,8 +79,7 @@ docs/_build/
 .pybuilder/
 target/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+
 
 # IPython
 profile_default/
