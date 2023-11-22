@@ -30,7 +30,7 @@ Before running the project, ensure that you have the required dependencies insta
 
    This script will install the required dependencies using `pip`.
 
-# Data Organization
+## Data Organization
 
 Before running the code, make sure to download the data from the below link and place it in the `Data` folder:
 
@@ -39,7 +39,7 @@ data - https://drive.google.com/drive/folders/1loTGJ2XxOBBh4R8nGSha1FeQMs2QTzkJ?
 ## Code For Evaluating Project
 Run the **main.ipynb** file for evalutation of the project
 
-# CNN Model Tuning Results
+## CNN Model Tuning Results
 
 After thorough experimentation and tuning, the following three sets of model parameters demonstrated the highest validation accuracy. These configurations are recommended for their outstanding performance:
 
@@ -51,7 +51,7 @@ After thorough experimentation and tuning, the following three sets of model par
 
 These configurations represent the top-performing models based on their validation accuracy.
 
-# ResNet-Inspired Model Tuning Results
+## ResNet-Inspired Model Tuning Results
 
 Inspired by the ResNet architecture, the following three configurations of the model were experimented with, showcasing their validation accuracies:
 
@@ -78,7 +78,7 @@ These results represent the performance of the ResNet-inspired model with varyin
 The above images showcase the Grad-CAM visualizations for the first and second convolutional layers of the model. These visualizations offer insights into the areas of focus for each layer, providing a deeper understanding of the model's decision-making process.
 
 
-# Best Model 
+## Best Model 
 
 After thorough model tuning, the best-performing configuration was identified as follows:
 
