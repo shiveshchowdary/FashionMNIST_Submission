@@ -36,6 +36,9 @@ Before running the code, make sure to download the data from the below link and 
 
 data - https://drive.google.com/drive/folders/1loTGJ2XxOBBh4R8nGSha1FeQMs2QTzkJ?usp=sharing
 
+## Code For Evaluating Project
+Run the **main.ipynb** file for evalutation of the project
+
 # CNN Model Tuning Results
 
 After thorough experimentation and tuning, the following three sets of model parameters demonstrated the highest validation accuracy. These configurations are recommended for their outstanding performance:
