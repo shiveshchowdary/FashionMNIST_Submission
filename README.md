@@ -32,9 +32,8 @@ Before running the project, ensure that you have the required dependencies insta
 
 ## Data Organization
 
-Before running the code, make sure to download the data from the below link and unzip it in the repo make sure a new folder Named `Data` is created:
+Before running the code, make sure to unzip the data.zip file in the repo. make sure a new folder named `Data` is created:
 
-data - [https://drive.google.com/drive/folders/1loTGJ2XxOBBh4R8nGSha1FeQMs2QTzkJ?usp=sharing](https://drive.google.com/file/d/1tkZBGcUYoeovZtvDu1qHJM3lZ0OIA68A/view?usp=sharing)
 
 ## Code For Evaluating Project
 Run the **main.ipynb** file in the trianing folder for evalutation of the project
